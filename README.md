@@ -36,7 +36,7 @@ The early-access form is intentionally integration-free: after a contact email i
    git add .
    git commit -m "Build Warik Labs website"
    git branch -M main
-   git remote add origin https://github.com/YOUR-ACCOUNT/YOUR-REPOSITORY.git
+   git remote add origin https://github.com/a1k7/Suno.git
    git push -u origin main
    ```
 3. In Vercel, choose **Add New → Project**, import the GitHub repository, and select the Next.js framework preset (it should be detected).
